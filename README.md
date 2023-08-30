@@ -9,8 +9,16 @@
 
 #### [Course Syllabus](MEDP-285_Leopold_Fall2023.pdf)
 
-#### Suggested Texts:
-* Learning Web Design - Jennifer Niedert Robbins
-* [Web Design w/ HTML, CSS, JavaScript + JQuery Set](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=sr_1_3?ie=UTF8&qid=1526310943&sr=8-3&keywords=html+and+css) - Jon Duckett, 2014
+#### Course Texts:
+* [Dive into HTML5](http://diveinto.html5doctor.com/) - Mark Pilgrim
 * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
-* [Learn Enough](https://www.learnenough.com/)
+* Learning Web Design - Jennifer Niedert Robbins
+
+
+#### Suggested Texts + Resources
+* [CSS Tricks](https://css-tricks.com/)
+* [Lynda CSS Essential Training](https://www.lynda.com/CSS-tutorials/CSS-Essential-Training-1/569190-2.html)
+* [Web Design w/ HTML, CSS, JavaScript + JQuery Set](https://www.amazon.com/Web-Design-HTML-JavaScript-jQuery/dp/1118907442/ref=sr_1_3?ie=UTF8&qid=1526310943&sr=8-3&keywords=html+and+css) - Jon Duckett, 2014
+* * [MDN Intro to JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction)
+* [Eloquent JavaScript](https://eloquentjavascript.net/)
+* [Learn Enough to be Dangerous](https://www.learnenough.com/) - scholarships for students available ;)
