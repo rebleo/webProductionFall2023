@@ -22,13 +22,16 @@
 ### Assignment 1
 1. Sign up for github and once verified (check your email) please place your USERNAME along with other relevent info [here](https://docs.google.com/spreadsheets/d/18zAVGrSJEvRU0waW87c9dmrP1wbHhZQ9AOtPqsWkTjk/edit?usp=sharing)
 2. Download and install: a text editor and sftp client
-3. Using your text editor create a simple webpage using a Text Editor (not Dreamweaver).  Be ready to show in class.  No need to hand in yet.  It should contain:
-- title the page Assignment_1.html
-– Put “Assignment 1” in the title tag section in the HTML code.
-– In large font on the page, display “[Your Name]”
-– Skip a line. In a paragraph (3-5 sentences), give the URL of your favorite website and why you like it. (is it easy to use, well designed? etc..) In the next paragraph (3-5 sentences), give the URL of one of the worst sites that you’ve used and why you don’t like it.
-– Challenge (optional): Make the URL’s clickable, change font colors, and insert image/screenshot of the sites.
+3. Using your text editor create a simple webpage using a Text Editor (not Dreamweaver).  Be ready to show in class. It should contain:
+  * title the page Assignment_1.html
+  * Put “Assignment 1” in the title tag section in the HTML code.
+  * In **large font** on the page, display “[Your Name]”
+  * Skip a line. In a paragraph (3-5 sentences), give the URL of your favorite website and why you like it. (is it easy to use, well designed? etc...) 
+  * In the next paragraph (3-5 sentences), give the URL of one of the worst sites that you’ve used and why you don’t like it.
+  * Challenge (optional): Make the URL’s clickable, change font colors, and insert image/screenshot of the sites.
 4. Using your SFTP client: add your webpage to your F+M Server
-  * If you do not have an F+M server or have issues with your site please please reach out to: Jhonn Sorroza <js5748@hunter.cuny.edu>
-5. Post a link directly to your Assigmnet_1.html page on our [class wiki week 1](https://github.com/rebleo/webProductionFall2023/wiki/Week-01)
+If you do not have an F+M server or have issues with your site please please reach out to: Jhonn Sorroza <js5748@hunter.cuny.edu>
+5. Post the URL that directs to your Assigmnet_1.html page on our [class wiki week 1](https://github.com/rebleo/webProductionFall2023/wiki/Week-01)
   * Bonus (optional): Customize the root page of your site and post a link to it by your name on the [home page of our wiki](https://github.com/rebleo/webProductionFall2023/wiki).
+
+The Assignment is worth 10 points. 1 point per bullet point above and 5 for the various details regarding the web page. 
