@@ -18,7 +18,7 @@
 
 
 ##### Assignment 2:
-1. spend at least 15 minutes looking at and searching this [interactive map of the internet](http://internet-map.net/)
+1. spend at least 15 minutes looking at and searching this [interactive map of the internet](https://classic.qz.com/map-of-the-internet/)
   * take notes and screen shots to use in your web page response
 2. Do this tutorial [Responsive images](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Responsive_images)
 3. Create a new webpage that:
