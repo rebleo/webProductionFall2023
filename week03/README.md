@@ -15,7 +15,8 @@
 1. Read: [Long Live the Web](https://www.scientificamerican.com/article/long-live-the-web/) - Tim Berner's Lee, 2009
 2. After reading the above: go to [Tim Berners Lee's X (formerly Twitter) account](http://www.x.com). Scroll, scroll, scroll. Pick a tweet that is interesting to you. Research a bit. Along wtih an image (screen shot) of the tweet, create a webpage that responds to TBL's tweet. Why do you think he posted it? Who is his audience? What do you make of it?
 3. Do this entire [Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) tutorial
-4. Create a style sheet and link it in the head of your HTML. Using the HTML Box Model -- make sure you add CSS styling to the [padding:](https://developer.mozilla.org/en-US/docs/Web/CSS/padding) , [margin:](https://developer.mozilla.org/en-US/docs/Web/CSS/margin) , [border:](https://developer.mozilla.org/en-US/docs/Web/CSS/border) to at least [5 block line elements](https://developer.mozilla.org/en-US/docs/Glossary/Block-level_content).  
+4. Create a website with at least three pages that is easy to navigate. Creaet an external style sheet to control the formatting of all three pages. Include screen grabs, etc in your response to Berners Lee.
+  * Using the HTML Box Model -- make sure you add CSS styling to the [padding:](https://developer.mozilla.org/en-US/docs/Web/CSS/padding) , [margin:](https://developer.mozilla.org/en-US/docs/Web/CSS/margin) , [border:](https://developer.mozilla.org/en-US/docs/Web/CSS/border) to at least [5 block line elements](https://developer.mozilla.org/en-US/docs/Glossary/Block-level_content).  
 
-* Upload your response to your class site and post a live link on [week03 of our wiki](https://github.com/rebleo/webProductionFall2023/wiki/Week-03).
+ * Upload your response to your class site and post a live link on [week03 of our wiki](https://github.com/rebleo/webProductionFall2023/wiki/Week-03).
 5. **note** you will be quizzed on your knowledge of the first four weeks of material on September 27
