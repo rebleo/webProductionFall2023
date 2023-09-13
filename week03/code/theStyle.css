@@ -1,0 +1,50 @@
+body {
+    background-color: pink;
+}
+
+/* font-family: 'Assistant', sans-serif;
+
+font-family: 'Montserrat', sans-serif; */
+main {
+    background-color: lightgreen;
+    border: dotted 3px blue;
+}
+
+p {
+    font-family: 'IBM Plex Sans', sans-serif;
+    font-size: 10vh;
+    background-color: yellow;
+    padding: 40px;
+    margin: 4vw;
+    border: solid 10px black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+hr {
+    border: 10px solid green;
+    border-radius: 50px;
+    width: 200px;
+    padding: 3vw;
+
+}
+
+button {
+    padding: 3vw;
+    margin: 5vw;
+    border-radius: 50px;
+    border: none;
+   
+}
+
+#theLeft {
+    transform: rotate(180deg)
+}
+button:hover {
+    background-color: lightblue;
+}
+
+footer {
+    display: flex;
+    background-color: lightblue;
+}
+
