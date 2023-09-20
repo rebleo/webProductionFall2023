@@ -1,3 +1,17 @@
-main {
+body {
+    background-color: lightgreen;
+}
+p {
     background-color: pink;
+    /* this is a comment. a comment 
+    is human readable bu tthe computer ignores */
+     /* opacity: 50% */
+     margin: 20px;
+     padding: 4vw;
+     border: solid 10px blue;
+}
+
+figure {
+    background-color: orange;
+    border: 3px dotted purple;
 }
