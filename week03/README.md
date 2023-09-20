@@ -12,7 +12,7 @@
 
 
 #### Assignment 3
-1. Read: [Long Live the Web](https://www.scientificamerican.com/article/long-live-the-web/) - Tim Berner's Lee, 2009
+1. Read (watch): [Ways of Seeing epidose 1](https://www.scientificamerican.com/article/long-live-the-web/) - Tim Berner's Lee, 2009
 2. After reading the above: go to [Tim Berners Lee's X (formerly Twitter) account](https://twitter.com/timberners_lee?lang=en). Scroll, scroll, scroll. Pick a tweet that is interesting to you. Research a bit. Along wtih an image (screen shot) of the tweet, create a webpage that responds to TBL's tweet. Why do you think he posted it? Who is his audience? What do you make of it?
 3. Do this entire [Box Model](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/The_box_model) tutorial
 4. Create a website with at least three pages that is easy to navigate. Creaet an external style sheet to control the formatting of all three pages. Include screen grabs, etc in your response to Berners Lee.
