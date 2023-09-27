@@ -1,4 +1,4 @@
-### Wednesday September 20
+### Wednesday September 27
 * Quiz 1
 * Discuss Ways of Seeing Responses
 * Intro to net.art
@@ -18,6 +18,8 @@
 2. Go further and [reserach online a specific net.art piece](https://anthology.rhizome.org/) that peaked your interest. Spend time with it. Take screen shots, notes, etc. 
 3. Create a webpage with CSS styling that controls at least 3 web pages to respond to the net.art piece you chose. Think of the work as your client, making sure your design and content reflect the work or artist(s).
 4. Your webpage must include:
+  * clear understanding of the HTML box model
   * at least one use of ids + classes
-  * at least one use of flex display
+  * at least one use of flex or grid display
   * brand new CSS that does not look like any site you have made yet in this class. 
+
