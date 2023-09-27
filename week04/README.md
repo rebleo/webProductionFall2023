@@ -8,7 +8,7 @@
 * [Type, class and ID selectors](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors/Type_Class_and_ID_Selectors)
 * [Handeling different text directions](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Handling_different_text_directions)
 * [Styling Links](https://developer.mozilla.org/en-US/docs/Learn/CSS/Styling_text/Styling_links)
-* *[Intro to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
+* [Intro to CSS](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Introduction)
 
 #### Assignment 4
 0. Build out your homepage with links to each week's assignment. Add a link to your homepage on the homepage of our wiki - [https://github.com/rebleo/webProductionFall2023/wiki](https://github.com/rebleo/webProductionFall2023/wiki)
