@@ -10,7 +10,7 @@
 
 ### 💾   Pair programming presentation net.art project
 
-##### In class presentations are due Monday October 25
+##### In class presentations are due Wednesday October 25
 With a partner, choose 1 artwork from either the [Rhizome's net.art Anthology](https://anthology.rhizome.org/) or [Chronus Art Center's WE-LINK online exhibitions](http://we-link.chronusartcenter.org/) to present to the class in a 5  minute presentation. If you want to do a creative response to the artwork (a hyper text narrative of your own inspired by Olia Lialina or a zoom performance inspired by another artist, etc) that is also a way to go.
 
 * You MUST create your [slide deck](https://www.google.com/search?q=slide+deck&oq=slide+deck&aqs=chrome..69i57j0l9.3609j0j7&sourceid=chrome&ie=UTF-8) using HTML, CSS + host on your class site. Each slide should be a relative link to another html page or a more sophisticated system if you choose. Use an external styling sheet to keep the styling of your presentation uniform. 
