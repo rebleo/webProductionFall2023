@@ -1,13 +1,14 @@
 
-
 #### Async Classwork
+#### Intro to the [Final](final.md)
 ##### Read / Code Along Text Book:
 1. MDN [JS Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
   * [Hello world!](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#a_hello_world!_example)
   * [Language basics crash course](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#language_basics_crash_course)
   * [Adding an image chnager](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics#adding_an_image_changer)
 
-  ###### The DOM
+*** 
+###### The DOM
 * [Eloquent JS - Chapter 14 The DOM](https://eloquentjavascript.net/14_dom.html)
 * [w3 - what is the DOM?](https://www.w3.org/TR/DOM-Level-1/introduction.html)
 * [ES6 Arrow function notation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
